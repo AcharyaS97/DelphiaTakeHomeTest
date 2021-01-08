@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DelphiaTakeHomeTest</string>
+    <string name="app_button_label">Get Rate</string>
+    <string name="app_spinner_label">Base Currency</string>
+    <string name="app_toast_error_label">There was an error trying to get the exchange rates! :(</string>
+</resources>
